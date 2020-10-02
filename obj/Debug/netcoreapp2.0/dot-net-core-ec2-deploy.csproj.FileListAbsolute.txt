@@ -1,0 +1,14 @@
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\appsettings.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.deps.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.runtimeconfig.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.runtimeconfig.dev.json
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.dll
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\bin\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.pdb
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\obj\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.csprojAssemblyReference.cache
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\obj\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.AssemblyInfoInputs.cache
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\obj\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.AssemblyInfo.cs
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\obj\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.dll
+D:\AWS\EC2 Deployment\dot-net-core-ec2-deploy\obj\Debug\netcoreapp2.0\dot-net-core-ec2-deploy.pdb
